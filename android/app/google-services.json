@@ -7,12 +7,20 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:852964369151:android:63e6c73c4734e13a9722ca",
+        "mobilesdk_app_id": "1:852964369151:android:03d6678c55444b119722ca",
         "android_client_info": {
           "package_name": "com.matamar.social"
         }
       },
       "oauth_client": [
+        {
+          "client_id": "852964369151-5h1vsthsvd6essibmdp28ot1vkjn61ao.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.matamar.social",
+            "certificate_hash": "a8b708564b8bb75ce1bd796e0cca771655c9f47d"
+          }
+        },
         {
           "client_id": "852964369151-p8tqc8r1e0ijtgbcviqjv9q1pd8aojbv.apps.googleusercontent.com",
           "client_type": 3
